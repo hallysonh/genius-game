@@ -50,3 +50,9 @@ Add the bill of the materials you need for this project.
 | L4 | Green LED      | G502DC       | 1        
 | W1 | Wires          |              | 14        
 |===
+
+=== LINKS
+
+https://create.arduino.cc/editor/hallysonh/fc9970f9-e6f7-40da-a611-eb915c9f5d7f[Arduino Web Editor - Project Page]
+
+https://www.youtube.com/watch?v=E0I8pPRlebs[Youtube Video]
